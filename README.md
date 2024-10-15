@@ -1,4 +1,4 @@
-[![MasterHead](http://www.sittechno.org/userfiles/image/data_science_shutterstock_shutterstock_Trueffelpix1.jpg)]()
+[![MasterHead](https://as2.ftcdn.net/v2/jpg/05/90/54/49/1000_F_590544996_ku4EgsB2Pb1UXrXTWPQGkZ2nxHgSVTqZ.jpg)]()
 <h1 align="center">Hi, I'm Manpreet S Gurutatta</h1>
 <h3 align="center">I turn raw data into meaningful insights, using Python and Machine Learning.</h3>
 
