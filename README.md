@@ -1,10 +1,8 @@
-[![MasterHead](https://datasciencedistrict.nl/wp-content/uploads/2020/03/databanner.png)]()
+[![MasterHead]((https://datasciencedistrict.nl/wp-content/uploads/2020/03/databanner.png)
 <h1 align="center">Hi 👋, I'm Manpreet S Gurutatta</h1>
 <h3 align="center">I turn raw data into meaningful insights, using Python and Machine Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurudattamanpreet&label=Profile%20views&color=0e75b6&style=flat" alt="gurudattamanpreet" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurudattamanpreet" alt="gurudattamanpreet" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/gurudattamanpreet](https://www.datascienceportfol.io/gurudattamanpreet)
 
