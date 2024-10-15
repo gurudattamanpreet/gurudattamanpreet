@@ -1,4 +1,4 @@
-[![MasterHead]((https://datasciencedistrict.nl/wp-content/uploads/2020/03/databanner.png)
+[![MasterHead]((https://datasciencedistrict.nl/wp-content/uploads/2020/03/databanner.png)]()
 <h1 align="center">Hi 👋, I'm Manpreet S Gurutatta</h1>
 <h3 align="center">I turn raw data into meaningful insights, using Python and Machine Learning.</h3>
 
