@@ -1,4 +1,4 @@
-[![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/hello.gif)]()
+[![MasterHead](http://www.sittechno.org/userfiles/image/data_science_shutterstock_shutterstock_Trueffelpix1.jpg)]()
 <h1 align="center">Hi 👋, I'm Manpreet S Gurutatta</h1>
 <h3 align="center">I turn raw data into meaningful insights, using Python and Machine Learning.</h3>
 
