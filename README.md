@@ -1,5 +1,5 @@
 [![MasterHead](https://as2.ftcdn.net/v2/jpg/05/90/54/49/1000_F_590544996_ku4EgsB2Pb1UXrXTWPQGkZ2nxHgSVTqZ.jpg)]()
-<h1 align="center">Hi, I'm Manpreet S Gurutatta</h1>
+<h1 align="center">Hi, I'm Manpreet S Gurudatta</h1>
 <h3 align="center">I turn raw data into meaningful insights, using Python and Machine Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurudattamanpreet&label=Profile%20views&color=0e75b6&style=flat" alt="gurudattamanpreet" /> </p>
@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gurudattamanpreet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gurudattamanpreet" height="30" width="40" /></a>
-<a href="https://kaggle.com/manpreetsgurutatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manpreetsgurutatta" height="30" width="40" /></a>
+<a href="https://kaggle.com/manpreetsGurudatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manpreetsGurudatta" height="30" width="40" /></a>
 <a href="https://medium.com/@gurudattamanpreet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gurudattamanpreet" height="30" width="40" /></a>
 </p>
 
